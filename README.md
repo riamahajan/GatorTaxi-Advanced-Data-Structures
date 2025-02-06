@@ -12,7 +12,7 @@ GatorTaxi is a ride-sharing platform designed to manage numerous ride requests e
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/gatortaxi.git
+git clone https://github.com/riamahajan/GatorTaxi-Advanced-Data-Structures
 ```
 Ensure you have Python installed, then navigate to the project directory.
 
